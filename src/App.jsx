@@ -82,7 +82,7 @@ function App() {
         </>
       ) : (
         <>
-          <h1 className="final-text">Yay! I knew it 🥰💞</h1>
+          <h1 className="final-text">Yayyyyyyy! I LOVE YOU BABYYYY 🥰💞</h1>
 
           {/* Background music */}
           <audio autoPlay loop>
