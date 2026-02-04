@@ -59,7 +59,7 @@ function App() {
       {!yesClicked ? (
         <>
           <h1 className="title">Will you be my Valentine ? 💘</h1>
-           <h1>HI this is from another branch</h1>
+
           {/* <p className="no-text"></p> */}
 
           <div className="buttons">
