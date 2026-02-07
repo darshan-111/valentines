@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Confetti from "react-confetti";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import "./App.css";
 
 function App() {
@@ -90,6 +91,7 @@ function App() {
           </audio>
         </>
       )}
+      <SpeedInsights />
     </div>
   );
 }
